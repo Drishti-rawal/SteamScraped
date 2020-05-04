@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{url_for('static',filename='css/bootstrap.min.css')}}">
+    <title>Steam top 100</title>
+</head>
+<style>
+    body{
+        background-image: url('https://i.pinimg.com/originals/e2/71/fd/e271fda72f1e158b5f0569cc72d36d7f.jpg');
+    }
+</style>
+<body>
+    
+    <nav class="navbar navbar-light bg-light">
+        <a class="navbar-brand" href="/">
+            <img src="https://toppng.com/uploads/preview/steam-logo-png-steam-logo-black-11563631869uaboooqq1t.png"
+                width="30" height="30" class="d-inline-block align-top" alt="">
+            Steam TOP 100
+        </a>
+    </nav>
+    <div class="mt-2">
+        <div class="jumbotron jumbotron-fluid">
+            <div class="container">
+                <h1 class="display-4">Steam TOP 100</h1>
+                <p class="lead">All the games you see below are scraped from steampowered.com using scrapy and scrapyrt
+                </p>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        {% for game in games %}
+            {% if loop.index0%3 == 0 %}
+                <div class="row">
+            {% endif %}
+
+            <div class="card text-white bg-dark ml-4 mr-4 mb-4" style="width: 18rem;">
+            <img class="card-img-top" src="{{game.get('img_url')}}">
+            <div class="card-body">
+              <h5 class="card-title">{{game.get('name')}}}}</h5>
+              <p class="card-text">Platforms : {{game.get('platforms')}}</p>
+              <a href="{{game.get('game_url')}}" class="btn btn-primary">Go to game</a>
+            </div>
+            </div>
+        
+            {% if loop.index0 % 3 == 2 %}
+                </div>
+            {% endif %}
+        
+        {% endfor %}
+
+    </div>
+   
+</body>
+
+</html>

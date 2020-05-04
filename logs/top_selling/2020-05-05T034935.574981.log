@@ -1,0 +1,965 @@
+2020-05-05 03:49:35 [scrapy] DEBUG: Crawled (200) <GET https://store.steampowered.com/robots.txt> (referer: None) ['cached']
+2020-05-05 03:49:35 [scrapy] DEBUG: Crawled (200) <GET https://store.steampowered.com/search/?filter=topsellers/> (referer: None) ['cached']
+2020-05-05 03:49:35 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers/>
+{'game_url': 'https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/?snr=1_7_7_230_150_1',
+ 'img_url': ['https://steamcdn-a.akamaihd.net/steam/apps/730/capsule_sm_120.jpg?t=1585696022'],
+ 'name': 'Counter-Strike: Global Offensive',
+ 'original_price': ['Free to Play'],
+ 'platforms': ['windows', 'Mac OS', 'Linux'],
+ 'release_date': '21 Aug, 2012',
+ 'review': ['Very Positive87% of the 4,293,781 user reviews for this game are '
+            'positive.']}
+2020-05-05 03:49:35 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers/>
+{'discount_rate': '50%',
+ 'discounted_price': '₹ 1,495',
+ 'game_url': 'https://store.steampowered.com/app/397540/Borderlands_3/?snr=1_7_7_230_150_1',
+ 'img_url': ['https://steamcdn-a.akamaihd.net/steam/apps/397540/capsule_sm_120.jpg?t=1587675179'],
+ 'name': 'Borderlands 3',
+ 'original_price': ['₹ 2,990'],
+ 'platforms': ['windows'],
+ 'release_date': '13 Mar, 2020',
+ 'review': ['Very Positive81% of the 26,748 user reviews for this game are '
+            'positive.']}
+2020-05-05 03:49:35 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers/>
+{'discount_rate': '34%',
+ 'discounted_price': '₹ 1,648',
+ 'game_url': 'https://store.steampowered.com/app/582010/MONSTER_HUNTER_WORLD/?snr=1_7_7_230_150_1',
+ 'img_url': ['https://steamcdn-a.akamaihd.net/steam/apps/582010/capsule_sm_120.jpg?t=1587600484'],
+ 'name': 'MONSTER HUNTER: WORLD',
+ 'original_price': ['₹ 2,497'],
+ 'platforms': ['windows'],
+ 'release_date': '9 Aug, 2018',
+ 'review': ['Very Positive82% of the 144,671 user reviews for this game are '
+            'positive.']}
+2020-05-05 03:49:35 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers/>
+{'game_url': 'https://store.steampowered.com/app/812140/Assassins_Creed_Odyssey/?snr=1_7_7_230_150_1',
+ 'img_url': ['https://steamcdn-a.akamaihd.net/steam/apps/812140/capsule_sm_120.jpg?t=1588279220'],
+ 'name': "Assassin's Creed® Odyssey",
+ 'original_price': ['₹ 2,999'],
+ 'platforms': ['windows'],
+ 'release_date': '5 Oct, 2018',
+ 'review': ['Very Positive88% of the 55,000 user reviews for this game are '
+            'positive.']}
+2020-05-05 03:49:35 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers/>
+{'game_url': 'https://store.steampowered.com/app/261550/Mount__Blade_II_Bannerlord/?snr=1_7_7_230_150_1',
+ 'img_url': ['https://steamcdn-a.akamaihd.net/steam/apps/261550/capsule_sm_120.jpg?t=1586885335'],
+ 'name': 'Mount & Blade II: Bannerlord',
+ 'original_price': ['₹ 2,499'],
+ 'platforms': ['windows'],
+ 'release_date': '30 Mar, 2020',
+ 'review': ['Very Positive88% of the 86,679 user reviews for this game are '
+            'positive.']}
+2020-05-05 03:49:35 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers/>
+{'game_url': 'https://store.steampowered.com/app/359550/Tom_Clancys_Rainbow_Six_Siege/?snr=1_7_7_230_150_1',
+ 'img_url': ['https://steamcdn-a.akamaihd.net/steam/apps/359550/capsule_sm_120.jpg?t=1585594789'],
+ 'name': "Tom Clancy's Rainbow Six® Siege",
+ 'original_price': ['₹ 999'],
+ 'platforms': ['windows'],
+ 'release_date': '1 Dec, 2015',
+ 'review': ['Very Positive88% of the 553,638 user reviews for this game are '
+            'positive.']}
+2020-05-05 03:49:35 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers/>
+{'game_url': 'https://store.steampowered.com/app/306130/The_Elder_Scrolls_Online/?snr=1_7_7_230_150_1',
+ 'img_url': ['https://steamcdn-a.akamaihd.net/steam/apps/306130/capsule_sm_120.jpg?t=1586472356'],
+ 'name': 'The Elder Scrolls® Online',
+ 'original_price': ['₹ 1,599'],
+ 'platforms': ['windows', 'Mac OS'],
+ 'release_date': '22 May, 2017',
+ 'review': ['Very Positive81% of the 58,121 user reviews for this game are '
+            'positive.']}
+2020-05-05 03:49:35 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers/>
+{'discount_rate': '40%',
+ 'discounted_price': '₹ 2,099',
+ 'game_url': 'https://store.steampowered.com/app/1172380/STAR_WARS_Jedi_Fallen_Order/?snr=1_7_7_230_150_1',
+ 'img_url': ['https://steamcdn-a.akamaihd.net/steam/apps/1172380/capsule_sm_120.jpg?t=1588279360'],
+ 'name': 'STAR WARS Jedi: Fallen Order™',
+ 'original_price': ['₹ 3,499'],
+ 'platforms': ['windows'],
+ 'release_date': '15 Nov, 2019',
+ 'review': ['Very Positive91% of the 40,903 user reviews for this game are '
+            'positive.']}
+2020-05-05 03:49:36 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers/>
+{'game_url': 'https://store.steampowered.com/app/271590/Grand_Theft_Auto_V/?snr=1_7_7_230_150_1',
+ 'img_url': ['https://steamcdn-a.akamaihd.net/steam/apps/271590/capsule_sm_120.jpg?t=1586539531'],
+ 'name': 'Grand Theft Auto V',
+ 'original_price': ['₹ 2,099'],
+ 'platforms': ['windows'],
+ 'release_date': '13 Apr, 2015',
+ 'review': ['Mostly Positive79% of the 738,921 user reviews for this game are '
+            'positive.']}
+2020-05-05 03:49:36 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers/>
+{'game_url': 'https://store.steampowered.com/app/578080/PLAYERUNKNOWNS_BATTLEGROUNDS/?snr=1_7_7_230_150_1',
+ 'img_url': ['https://steamcdn-a.akamaihd.net/steam/apps/578080/capsule_sm_120.jpg?t=1587582005'],
+ 'name': "PLAYERUNKNOWN'S BATTLEGROUNDS",
+ 'original_price': ['₹ 999'],
+ 'platforms': ['windows'],
+ 'release_date': '21 Dec, 2017',
+ 'review': ['Mixed53% of the 1,201,636 user reviews for this game are '
+            'positive.']}
+2020-05-05 03:49:36 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers/>
+{'game_url': 'https://store.steampowered.com/app/230410/Warframe/?snr=1_7_7_230_150_1',
+ 'img_url': ['https://steamcdn-a.akamaihd.net/steam/apps/230410/capsule_sm_120.jpg?t=1588019344'],
+ 'name': 'Warframe',
+ 'original_price': ['Free to Play'],
+ 'platforms': ['windows'],
+ 'release_date': '25 Mar, 2013',
+ 'review': ['Very Positive91% of the 352,518 user reviews for this game are '
+            'positive.This product has experienced one or more periods of '
+            'off-topic review activity.  Based on your preferences, the '
+            'reviews within these periods have been excluded from this '
+            "product's Review Score."]}
+2020-05-05 03:49:36 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers/>
+{'discount_rate': '25%',
+ 'discounted_price': '₹ 2,249',
+ 'game_url': 'https://store.steampowered.com/app/1118010/Monster_Hunter_World_Iceborne/?snr=1_7_7_230_150_1',
+ 'img_url': ['https://steamcdn-a.akamaihd.net/steam/apps/1118010/capsule_sm_120.jpg?t=1586831465'],
+ 'name': 'Monster Hunter World: Iceborne',
+ 'original_price': ['₹ 2,999'],
+ 'platforms': ['windows'],
+ 'release_date': '9 Jan, 2020',
+ 'review': ['Mixed46% of the 10,595 user reviews for this game are positive.']}
+2020-05-05 03:49:36 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers/>
+{'game_url': 'https://store.steampowered.com/app/1174180/Red_Dead_Redemption_2/?snr=1_7_7_230_150_1',
+ 'img_url': ['https://steamcdn-a.akamaihd.net/steam/apps/1174180/capsule_sm_120.jpg?t=1583253547'],
+ 'name': 'Red Dead Redemption 2',
+ 'original_price': ['₹ 3,199'],
+ 'platforms': ['windows'],
+ 'release_date': '5 Dec, 2019',
+ 'review': ['Mostly Positive73% of the 69,906 user reviews for this game are '
+            'positive.']}
+2020-05-05 03:49:36 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers/>
+{'game_url': 'https://store.steampowered.com/app/381210/Dead_by_Daylight/?snr=1_7_7_230_150_1',
+ 'img_url': ['https://steamcdn-a.akamaihd.net/steam/apps/381210/capsule_sm_120.jpg?t=1587510462'],
+ 'name': 'Dead by Daylight',
+ 'original_price': ['₹ 565'],
+ 'platforms': ['windows'],
+ 'release_date': '14 Jun, 2016',
+ 'review': ['Very Positive80% of the 222,261 user reviews for this game are '
+            'positive.']}
+2020-05-05 03:49:36 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers/>
+{'game_url': 'https://store.steampowered.com/app/1085660/Destiny_2/?snr=1_7_7_230_150_1',
+ 'img_url': ['https://steamcdn-a.akamaihd.net/steam/apps/1085660/capsule_sm_120.jpg?t=1583858222'],
+ 'name': 'Destiny 2',
+ 'original_price': ['Free To Play'],
+ 'platforms': ['windows'],
+ 'release_date': '1 Oct, 2019',
+ 'review': ['Very Positive87% of the 227,727 user reviews for this game are '
+            'positive.']}
+2020-05-05 03:49:36 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers/>
+{'game_url': 'https://store.steampowered.com/app/252950/Rocket_League/?snr=1_7_7_230_150_1',
+ 'img_url': ['https://steamcdn-a.akamaihd.net/steam/apps/252950/capsule_sm_120_alt_assets_11.jpg?t=1585155609'],
+ 'name': 'Rocket League®',
+ 'original_price': ['₹ 565'],
+ 'platforms': ['windows'],
+ 'release_date': '6 Jul, 2015',
+ 'review': ['Very Positive92% of the 299,325 user reviews for this game are '
+            'positive.This product has experienced one or more periods of '
+            'off-topic review activity.  Based on your preferences, the '
+            'reviews within these periods have been excluded from this '
+            "product's Review Score."]}
+2020-05-05 03:49:36 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers/>
+{'discount_rate': '33%',
+ 'discounted_price': '₹ 1,674',
+ 'game_url': 'https://store.steampowered.com/app/1100600/Football_Manager_2020/?snr=1_7_7_230_150_1',
+ 'img_url': ['https://steamcdn-a.akamaihd.net/steam/apps/1100600/capsule_sm_120.jpg?t=1584981392'],
+ 'name': 'Football Manager 2020',
+ 'original_price': ['₹ 2,499'],
+ 'platforms': ['windows', 'Mac OS'],
+ 'release_date': '19 Nov, 2019',
+ 'review': ['Very Positive85% of the 10,253 user reviews for this game are '
+            'positive.']}
+2020-05-05 03:49:36 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers/>
+{'game_url': 'https://store.steampowered.com/app/782330/DOOM_Eternal/?snr=1_7_7_230_150_1',
+ 'img_url': ['https://steamcdn-a.akamaihd.net/steam/apps/782330/capsule_sm_120.jpg?t=1585834350'],
+ 'name': 'DOOM Eternal',
+ 'original_price': ['₹ 3,999'],
+ 'platforms': ['windows'],
+ 'release_date': '19 Mar, 2020',
+ 'review': ['Very Positive92% of the 44,759 user reviews for this game are '
+            'positive.']}
+2020-05-05 03:49:36 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers/>
+{'game_url': 'https://store.steampowered.com/app/570/Dota_2/?snr=1_7_7_230_150_1',
+ 'img_url': ['https://steamcdn-a.akamaihd.net/steam/apps/570/capsule_sm_120.jpg?t=1581406684'],
+ 'name': 'Dota 2',
+ 'original_price': ['Free to Play'],
+ 'platforms': ['windows', 'Mac OS', 'Linux', 'VR Supported'],
+ 'release_date': '9 Jul, 2013',
+ 'review': ['Very Positive84% of the 1,281,562 user reviews for this game are '
+            'positive.']}
+2020-05-05 03:49:36 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers/>
+{'discount_rate': '75%',
+ 'discounted_price': '₹ 1,074',
+ 'game_url': 'https://store.steampowered.com/app/374320/DARK_SOULS_III/?snr=1_7_7_230_150_1',
+ 'img_url': ['https://steamcdn-a.akamaihd.net/steam/apps/374320/capsule_sm_120.jpg?t=1580308221'],
+ 'name': 'DARK SOULS™ III',
+ 'original_price': ['₹ 4,299'],
+ 'platforms': ['windows'],
+ 'release_date': '11 Apr, 2016',
+ 'review': ['Very Positive92% of the 116,333 user reviews for this game are '
+            'positive.']}
+2020-05-05 03:49:36 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers/>
+{'game_url': 'https://store.steampowered.com/app/39210/FINAL_FANTASY_XIV_Online/?snr=1_7_7_230_150_1',
+ 'img_url': ['https://steamcdn-a.akamaihd.net/steam/apps/39210/capsule_sm_120.jpg?t=1587567669'],
+ 'name': 'FINAL FANTASY XIV Online',
+ 'original_price': ['₹ 719'],
+ 'platforms': ['windows'],
+ 'release_date': '18 Feb, 2014',
+ 'review': ['Very Positive86% of the 19,940 user reviews for this game are '
+            'positive.']}
+2020-05-05 03:49:36 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers/>
+{'game_url': 'https://store.steampowered.com/app/346110/ARK_Survival_Evolved/?snr=1_7_7_230_150_1',
+ 'img_url': ['https://steamcdn-a.akamaihd.net/steam/apps/346110/capsule_sm_120.jpg?t=1587588733'],
+ 'name': 'ARK: Survival Evolved',
+ 'original_price': ['₹ 1,099'],
+ 'platforms': ['windows', 'Mac OS', 'Linux'],
+ 'release_date': '29 Aug, 2017',
+ 'review': ['Mostly Positive76% of the 256,792 user reviews for this game are '
+            'positive.']}
+2020-05-05 03:49:36 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers/>
+{'game_url': 'https://store.steampowered.com/app/1151340/Fallout_76/?snr=1_7_7_230_150_1',
+ 'img_url': ['https://steamcdn-a.akamaihd.net/steam/apps/1151340/capsule_sm_120.jpg?t=1588198661'],
+ 'name': 'Fallout 76',
+ 'original_price': ['₹ 2,499'],
+ 'platforms': ['windows'],
+ 'release_date': '14 Apr, 2020',
+ 'review': ['Mostly Positive78% of the 3,530 user reviews for this game are '
+            'positive.']}
+2020-05-05 03:49:36 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers/>
+{'discount_rate': '75%',
+ 'discounted_price': '₹ 749',
+ 'game_url': 'https://store.steampowered.com/app/268500/XCOM_2/?snr=1_7_7_230_150_1',
+ 'img_url': ['https://steamcdn-a.akamaihd.net/steam/apps/268500/capsule_sm_120.jpg?t=1587659817'],
+ 'name': 'XCOM® 2',
+ 'original_price': ['₹ 2,999'],
+ 'platforms': ['windows', 'Mac OS', 'Linux'],
+ 'release_date': '4 Feb, 2016',
+ 'review': ['Very Positive85% of the 35,756 user reviews for this game are '
+            'positive.']}
+2020-05-05 03:49:36 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers/>
+{'game_url': 'https://store.steampowered.com/app/236390/War_Thunder/?snr=1_7_7_230_150_1',
+ 'img_url': ['https://steamcdn-a.akamaihd.net/steam/apps/236390/capsule_sm_120.jpg?t=1587735828'],
+ 'name': 'War Thunder',
+ 'original_price': ['Free to Play'],
+ 'platforms': ['windows', 'Mac OS', 'Linux', 'VR Supported'],
+ 'release_date': '15 Aug, 2013',
+ 'review': ['Very Positive80% of the 154,211 user reviews for this game are '
+            'positive.']}
+2020-05-05 03:49:36 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers/>
+{'game_url': 'https://store.steampowered.com/app/238960/Path_of_Exile/?snr=1_7_7_230_150_1',
+ 'img_url': ['https://steamcdn-a.akamaihd.net/steam/apps/238960/capsule_sm_120.jpg?t=1588038684'],
+ 'name': 'Path of Exile',
+ 'original_price': ['Free to Play'],
+ 'platforms': ['windows'],
+ 'release_date': '23 Oct, 2013',
+ 'review': ['Very Positive93% of the 130,796 user reviews for this game are '
+            'positive.']}
+2020-05-05 03:49:36 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers/>
+{'game_url': 'https://store.steampowered.com/app/286160/Tabletop_Simulator/?snr=1_7_7_230_150_1',
+ 'img_url': ['https://steamcdn-a.akamaihd.net/steam/apps/286160/capsule_sm_120.jpg?t=1587678573'],
+ 'name': 'Tabletop Simulator',
+ 'original_price': ['₹ 565'],
+ 'platforms': ['windows', 'Mac OS', 'Linux', 'VR Supported'],
+ 'release_date': '5 Jun, 2015',
+ 'review': ['Overwhelmingly Positive95% of the 16,450 user reviews for this '
+            'game are positive.']}
+2020-05-05 03:49:36 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers/>
+{'game_url': 'https://store.steampowered.com/app/582160/Assassins_Creed_Origins/?snr=1_7_7_230_150_1',
+ 'img_url': ['https://steamcdn-a.akamaihd.net/steam/apps/582160/capsule_sm_120.jpg?t=1575638190'],
+ 'name': "Assassin's Creed® Origins",
+ 'original_price': ['₹ 2,999'],
+ 'platforms': ['windows'],
+ 'release_date': '26 Oct, 2017',
+ 'review': ['Very Positive84% of the 43,606 user reviews for this game are '
+            'positive.']}
+2020-05-05 03:49:36 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers/>
+{'game_url': 'https://store.steampowered.com/app/252490/Rust/?snr=1_7_7_230_150_1',
+ 'img_url': ['https://steamcdn-a.akamaihd.net/steam/apps/252490/capsule_sm_120.jpg?t=1587602712'],
+ 'name': 'Rust',
+ 'original_price': ['₹ 899'],
+ 'platforms': ['windows', 'Mac OS'],
+ 'release_date': '8 Feb, 2018',
+ 'review': ['Very Positive83% of the 331,973 user reviews for this game are '
+            'positive.']}
+2020-05-05 03:49:36 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers/>
+{'game_url': 'https://store.steampowered.com/app/813780/Age_of_Empires_II_Definitive_Edition/?snr=1_7_7_230_150_1',
+ 'img_url': ['https://steamcdn-a.akamaihd.net/steam/apps/813780/capsule_sm_120.jpg?t=1587593881'],
+ 'name': 'Age of Empires II: Definitive Edition',
+ 'original_price': ['₹ 529'],
+ 'platforms': ['windows'],
+ 'release_date': '14 Nov, 2019',
+ 'review': ['Very Positive91% of the 38,204 user reviews for this game are '
+            'positive.']}
+2020-05-05 03:49:36 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers/>
+{'game_url': 'https://store.steampowered.com/app/617290/Remnant_From_the_Ashes/?snr=1_7_7_230_150_1',
+ 'img_url': ['https://steamcdn-a.akamaihd.net/steam/apps/617290/capsule_sm_120.jpg?t=1586895275'],
+ 'name': 'Remnant: From the Ashes',
+ 'original_price': ['₹ 1,440'],
+ 'platforms': ['windows'],
+ 'release_date': '19 Aug, 2019',
+ 'review': ['Very Positive83% of the 19,874 user reviews for this game are '
+            'positive.']}
+2020-05-05 03:49:36 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers/>
+{'game_url': 'https://store.steampowered.com/app/594570/Total_War_WARHAMMER_II/?snr=1_7_7_230_150_1',
+ 'img_url': ['https://steamcdn-a.akamaihd.net/steam/apps/594570/capsule_sm_120.jpg?t=1587995119'],
+ 'name': 'Total War: WARHAMMER II',
+ 'original_price': ['₹ 2,699'],
+ 'platforms': ['windows', 'Mac OS', 'Linux'],
+ 'release_date': '28 Sep, 2017',
+ 'review': ['Very Positive92% of the 40,632 user reviews for this game are '
+            'positive.']}
+2020-05-05 03:49:36 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers/>
+{'game_url': 'https://store.steampowered.com/app/703080/Planet_Zoo/?snr=1_7_7_230_150_1',
+ 'img_url': ['https://steamcdn-a.akamaihd.net/steam/apps/703080/capsule_sm_120_alt_assets_1.jpg?t=1586270224'],
+ 'name': 'Planet Zoo',
+ 'original_price': ['₹ 2,149'],
+ 'platforms': ['windows'],
+ 'release_date': '5 Nov, 2019',
+ 'review': ['Very Positive87% of the 22,936 user reviews for this game are '
+            'positive.']}
+2020-05-05 03:49:36 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers/>
+{'game_url': 'https://store.steampowered.com/app/227300/Euro_Truck_Simulator_2/?snr=1_7_7_230_150_1',
+ 'img_url': ['https://steamcdn-a.akamaihd.net/steam/apps/227300/capsule_sm_120.jpg?t=1587666184'],
+ 'name': 'Euro Truck Simulator 2',
+ 'original_price': ['₹ 965'],
+ 'platforms': ['windows', 'Mac OS', 'Linux'],
+ 'release_date': '12 Oct, 2012',
+ 'review': ['Overwhelmingly Positive97% of the 219,047 user reviews for this '
+            'game are positive.']}
+2020-05-05 03:49:36 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers/>
+{'game_url': 'https://store.steampowered.com/app/546560/HalfLife_Alyx/?snr=1_7_7_230_150_1',
+ 'img_url': ['https://steamcdn-a.akamaihd.net/steam/apps/546560/capsule_sm_120.jpg?t=1584985275'],
+ 'name': 'Half-Life: Alyx',
+ 'original_price': ['₹ 1,299'],
+ 'platforms': ['windows'],
+ 'release_date': '23 Mar, 2020',
+ 'review': ['Overwhelmingly Positive98% of the 24,320 user reviews for this '
+            'game are positive.']}
+2020-05-05 03:49:36 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers/>
+{'game_url': 'https://store.steampowered.com/app/255710/Cities_Skylines/?snr=1_7_7_230_150_1',
+ 'img_url': ['https://steamcdn-a.akamaihd.net/steam/apps/255710/capsule_sm_120.jpg?t=1585653323'],
+ 'name': 'Cities: Skylines',
+ 'original_price': ['₹ 729'],
+ 'platforms': ['windows', 'Mac OS', 'Linux'],
+ 'release_date': '10 Mar, 2015',
+ 'review': ['Very Positive92% of the 88,076 user reviews for this game are '
+            'positive.']}
+2020-05-05 03:49:36 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers/>
+{'game_url': 'https://store.steampowered.com/app/289070/Sid_Meiers_Civilization_VI/?snr=1_7_7_230_150_1',
+ 'img_url': ['https://steamcdn-a.akamaihd.net/steam/apps/289070/capsule_sm_120.jpg?t=1586193131'],
+ 'name': 'Sid Meier’s Civilization® VI',
+ 'original_price': ['₹ 2,499'],
+ 'platforms': ['windows', 'Mac OS', 'Linux'],
+ 'release_date': '20 Oct, 2016',
+ 'review': ['Mostly Positive79% of the 71,936 user reviews for this game are '
+            'positive.']}
+2020-05-05 03:49:36 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers/>
+{'game_url': 'https://store.steampowered.com/app/815370/Green_Hell/?snr=1_7_7_230_150_1',
+ 'img_url': ['https://steamcdn-a.akamaihd.net/steam/apps/815370/capsule_sm_120.jpg?t=1586347791'],
+ 'name': 'Green Hell',
+ 'original_price': ['₹ 569'],
+ 'platforms': ['windows'],
+ 'release_date': '5 Sep, 2019',
+ 'review': ['Very Positive85% of the 11,784 user reviews for this game are '
+            'positive.']}
+2020-05-05 03:49:36 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers/>
+{'game_url': 'https://store.steampowered.com/app/985890/Streets_of_Rage_4/?snr=1_7_7_230_150_1',
+ 'img_url': ['https://steamcdn-a.akamaihd.net/steam/apps/985890/capsule_sm_120.jpg?t=1588597142'],
+ 'name': 'Streets of Rage 4',
+ 'original_price': ['₹ 569'],
+ 'platforms': ['windows'],
+ 'release_date': '30 Apr, 2020',
+ 'review': ['Very Positive89% of the 3,470 user reviews for this game are '
+            'positive.']}
+2020-05-05 03:49:36 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers/>
+{'game_url': 'https://store.steampowered.com/app/976730/Halo_The_Master_Chief_Collection/?snr=1_7_7_230_150_1',
+ 'img_url': ['https://steamcdn-a.akamaihd.net/steam/apps/976730/capsule_sm_120.jpg?t=1583274094'],
+ 'name': 'Halo: The Master Chief Collection',
+ 'original_price': ['₹ 899'],
+ 'platforms': ['windows'],
+ 'release_date': '3 Dec, 2019',
+ 'review': ['Very Positive91% of the 75,673 user reviews for this game are '
+            'positive.']}
+2020-05-05 03:49:36 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers/>
+{'game_url': 'https://store.steampowered.com/app/281990/Stellaris/?snr=1_7_7_230_150_1',
+ 'img_url': ['https://steamcdn-a.akamaihd.net/steam/apps/281990/capsule_sm_120.jpg?t=1586245761'],
+ 'name': 'Stellaris',
+ 'original_price': ['₹ 849'],
+ 'platforms': ['windows', 'Mac OS', 'Linux'],
+ 'release_date': '9 May, 2016',
+ 'review': ['Very Positive84% of the 54,675 user reviews for this game are '
+            'positive.']}
+2020-05-05 03:49:36 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers/>
+{'game_url': 'https://store.steampowered.com/app/1184050/Gears_Tactics/?snr=1_7_7_230_150_1',
+ 'img_url': ['https://steamcdn-a.akamaihd.net/steam/apps/1184050/capsule_sm_120.jpg?t=1588608617'],
+ 'name': 'Gears Tactics',
+ 'original_price': ['₹ 1,299'],
+ 'platforms': ['windows'],
+ 'release_date': '28 Apr, 2020',
+ 'review': ['Mostly Positive77% of the 1,835 user reviews for this game are '
+            'positive.']}
+2020-05-05 03:49:36 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers/>
+{'game_url': 'https://store.steampowered.com/app/242760/The_Forest/?snr=1_7_7_230_150_1',
+ 'img_url': ['https://steamcdn-a.akamaihd.net/steam/apps/242760/capsule_sm_120.jpg?t=1583780376'],
+ 'name': 'The Forest',
+ 'original_price': ['₹ 529'],
+ 'platforms': ['windows', 'VR Supported'],
+ 'release_date': '30 Apr, 2018',
+ 'review': ['Very Positive93% of the 151,834 user reviews for this game are '
+            'positive.']}
+2020-05-05 03:49:36 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers/>
+{'game_url': 'https://store.steampowered.com/app/440/Team_Fortress_2/?snr=1_7_7_230_150_1',
+ 'img_url': ['https://steamcdn-a.akamaihd.net/steam/apps/440/capsule_sm_120.jpg?t=1577610485'],
+ 'name': 'Team Fortress 2',
+ 'original_price': ['Free to Play'],
+ 'platforms': ['windows', 'Mac OS', 'Linux'],
+ 'release_date': '10 Oct, 2007',
+ 'review': ['Very Positive94% of the 661,416 user reviews for this game are '
+            'positive.']}
+2020-05-05 03:49:36 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers/>
+{'game_url': 'https://store.steampowered.com/app/201270/Total_War_SHOGUN_2/?snr=1_7_7_230_150_1',
+ 'img_url': ['https://steamcdn-a.akamaihd.net/steam/apps/201270/capsule_sm_120.jpg?t=1588190219'],
+ 'name': 'Total War: SHOGUN 2',
+ 'original_price': ['₹ 1,349'],
+ 'platforms': ['windows', 'Mac OS', 'Linux'],
+ 'release_date': '15 Mar, 2011',
+ 'review': ['Very Positive90% of the 19,075 user reviews for this game are '
+            'positive.']}
+2020-05-05 03:49:36 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers/>
+{'game_url': 'https://store.steampowered.com/app/880940/Pummel_Party/?snr=1_7_7_230_150_1',
+ 'img_url': ['https://steamcdn-a.akamaihd.net/steam/apps/880940/capsule_sm_120.jpg?t=1585242250'],
+ 'name': 'Pummel Party',
+ 'original_price': ['₹ 459'],
+ 'platforms': ['windows'],
+ 'release_date': '20 Sep, 2018',
+ 'review': ['Very Positive91% of the 9,450 user reviews for this game are '
+            'positive.']}
+2020-05-05 03:49:36 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers/>
+{'game_url': 'https://store.steampowered.com/app/218620/PAYDAY_2/?snr=1_7_7_230_150_1',
+ 'img_url': ['https://steamcdn-a.akamaihd.net/steam/apps/218620/capsule_sm_120.jpg?t=1584629114'],
+ 'name': 'PAYDAY 2',
+ 'original_price': ['₹ 349'],
+ 'platforms': ['windows', 'Linux', 'VR Supported'],
+ 'release_date': '13 Aug, 2013',
+ 'review': ['Very Positive86% of the 260,327 user reviews for this game are '
+            'positive.']}
+2020-05-05 03:49:36 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers/>
+{'discount_rate': '40%',
+ 'discounted_price': '₹ 1,799',
+ 'game_url': 'https://store.steampowered.com/app/678960/CODE_VEIN/?snr=1_7_7_230_150_1',
+ 'img_url': ['https://steamcdn-a.akamaihd.net/steam/apps/678960/capsule_sm_120.jpg?t=1578932945'],
+ 'name': 'CODE VEIN',
+ 'original_price': ['₹ 2,999'],
+ 'platforms': ['windows'],
+ 'release_date': '26 Sep, 2019',
+ 'review': ['Very Positive89% of the 13,815 user reviews for this game are '
+            'positive.']}
+2020-05-05 03:49:36 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers/>
+{'game_url': 'https://store.steampowered.com/app/294100/RimWorld/?snr=1_7_7_230_150_1',
+ 'img_url': ['https://steamcdn-a.akamaihd.net/steam/apps/294100/capsule_sm_120.jpg?t=1588173922'],
+ 'name': 'RimWorld',
+ 'original_price': ['₹ 759'],
+ 'platforms': ['windows', 'Mac OS', 'Linux'],
+ 'release_date': '17 Oct, 2018',
+ 'review': ['Overwhelmingly Positive98% of the 59,897 user reviews for this '
+            'game are positive.']}
+2020-05-05 03:49:36 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?filter=topsellers/>
+{'game_url': 'https://store.steampowered.com/app/393380/Squad/?snr=1_7_7_230_150_1',
+ 'img_url': ['https://steamcdn-a.akamaihd.net/steam/apps/393380/capsule_sm_120.jpg?t=1587660245'],
+ 'name': 'Squad',
+ 'original_price': ['₹ 1,393'],
+ 'platforms': ['windows'],
+ 'release_date': '14 Dec, 2015',
+ 'review': ['Very Positive87% of the 34,814 user reviews for this game are '
+            'positive.']}
+2020-05-05 03:49:36 [scrapy] DEBUG: Crawled (200) <GET https://store.steampowered.com/search/?sort_by=&sort_order=0&page=2> (referer: https://store.steampowered.com/search/?filter=topsellers/) ['cached']
+2020-05-05 03:49:36 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?sort_by=&sort_order=0&page=2>
+{'game_url': 'https://store.steampowered.com/app/238960/Path_of_Exile/?snr=1_7_7_230_150_2',
+ 'img_url': ['https://steamcdn-a.akamaihd.net/steam/apps/238960/capsule_sm_120.jpg?t=1588038684'],
+ 'name': 'Path of Exile',
+ 'original_price': ['Free to Play'],
+ 'platforms': ['windows'],
+ 'release_date': '23 Oct, 2013',
+ 'review': ['Very Positive93% of the 130,796 user reviews for this game are '
+            'positive.']}
+2020-05-05 03:49:36 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?sort_by=&sort_order=0&page=2>
+{'game_url': 'https://store.steampowered.com/app/286160/Tabletop_Simulator/?snr=1_7_7_230_150_2',
+ 'img_url': ['https://steamcdn-a.akamaihd.net/steam/apps/286160/capsule_sm_120.jpg?t=1587678573'],
+ 'name': 'Tabletop Simulator',
+ 'original_price': ['₹ 565'],
+ 'platforms': ['windows', 'Mac OS', 'Linux', 'VR Supported'],
+ 'release_date': '5 Jun, 2015',
+ 'review': ['Overwhelmingly Positive95% of the 16,450 user reviews for this '
+            'game are positive.']}
+2020-05-05 03:49:36 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?sort_by=&sort_order=0&page=2>
+{'game_url': 'https://store.steampowered.com/app/582160/Assassins_Creed_Origins/?snr=1_7_7_230_150_2',
+ 'img_url': ['https://steamcdn-a.akamaihd.net/steam/apps/582160/capsule_sm_120.jpg?t=1575638190'],
+ 'name': "Assassin's Creed® Origins",
+ 'original_price': ['₹ 2,999'],
+ 'platforms': ['windows'],
+ 'release_date': '26 Oct, 2017',
+ 'review': ['Very Positive84% of the 43,606 user reviews for this game are '
+            'positive.']}
+2020-05-05 03:49:36 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?sort_by=&sort_order=0&page=2>
+{'game_url': 'https://store.steampowered.com/app/252490/Rust/?snr=1_7_7_230_150_2',
+ 'img_url': ['https://steamcdn-a.akamaihd.net/steam/apps/252490/capsule_sm_120.jpg?t=1587602712'],
+ 'name': 'Rust',
+ 'original_price': ['₹ 899'],
+ 'platforms': ['windows', 'Mac OS'],
+ 'release_date': '8 Feb, 2018',
+ 'review': ['Very Positive83% of the 331,973 user reviews for this game are '
+            'positive.']}
+2020-05-05 03:49:36 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?sort_by=&sort_order=0&page=2>
+{'game_url': 'https://store.steampowered.com/app/813780/Age_of_Empires_II_Definitive_Edition/?snr=1_7_7_230_150_2',
+ 'img_url': ['https://steamcdn-a.akamaihd.net/steam/apps/813780/capsule_sm_120.jpg?t=1587593881'],
+ 'name': 'Age of Empires II: Definitive Edition',
+ 'original_price': ['₹ 529'],
+ 'platforms': ['windows'],
+ 'release_date': '14 Nov, 2019',
+ 'review': ['Very Positive91% of the 38,204 user reviews for this game are '
+            'positive.']}
+2020-05-05 03:49:36 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?sort_by=&sort_order=0&page=2>
+{'game_url': 'https://store.steampowered.com/app/617290/Remnant_From_the_Ashes/?snr=1_7_7_230_150_2',
+ 'img_url': ['https://steamcdn-a.akamaihd.net/steam/apps/617290/capsule_sm_120.jpg?t=1586895275'],
+ 'name': 'Remnant: From the Ashes',
+ 'original_price': ['₹ 1,440'],
+ 'platforms': ['windows'],
+ 'release_date': '19 Aug, 2019',
+ 'review': ['Very Positive83% of the 19,874 user reviews for this game are '
+            'positive.']}
+2020-05-05 03:49:36 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?sort_by=&sort_order=0&page=2>
+{'game_url': 'https://store.steampowered.com/app/594570/Total_War_WARHAMMER_II/?snr=1_7_7_230_150_2',
+ 'img_url': ['https://steamcdn-a.akamaihd.net/steam/apps/594570/capsule_sm_120.jpg?t=1587995119'],
+ 'name': 'Total War: WARHAMMER II',
+ 'original_price': ['₹ 2,699'],
+ 'platforms': ['windows', 'Mac OS', 'Linux'],
+ 'release_date': '28 Sep, 2017',
+ 'review': ['Very Positive92% of the 40,632 user reviews for this game are '
+            'positive.']}
+2020-05-05 03:49:36 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?sort_by=&sort_order=0&page=2>
+{'game_url': 'https://store.steampowered.com/app/703080/Planet_Zoo/?snr=1_7_7_230_150_2',
+ 'img_url': ['https://steamcdn-a.akamaihd.net/steam/apps/703080/capsule_sm_120_alt_assets_1.jpg?t=1586270224'],
+ 'name': 'Planet Zoo',
+ 'original_price': ['₹ 2,149'],
+ 'platforms': ['windows'],
+ 'release_date': '5 Nov, 2019',
+ 'review': ['Very Positive87% of the 22,936 user reviews for this game are '
+            'positive.']}
+2020-05-05 03:49:36 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?sort_by=&sort_order=0&page=2>
+{'game_url': 'https://store.steampowered.com/app/227300/Euro_Truck_Simulator_2/?snr=1_7_7_230_150_2',
+ 'img_url': ['https://steamcdn-a.akamaihd.net/steam/apps/227300/capsule_sm_120.jpg?t=1587666184'],
+ 'name': 'Euro Truck Simulator 2',
+ 'original_price': ['₹ 965'],
+ 'platforms': ['windows', 'Mac OS', 'Linux'],
+ 'release_date': '12 Oct, 2012',
+ 'review': ['Overwhelmingly Positive97% of the 219,047 user reviews for this '
+            'game are positive.']}
+2020-05-05 03:49:36 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?sort_by=&sort_order=0&page=2>
+{'game_url': 'https://store.steampowered.com/app/546560/HalfLife_Alyx/?snr=1_7_7_230_150_2',
+ 'img_url': ['https://steamcdn-a.akamaihd.net/steam/apps/546560/capsule_sm_120.jpg?t=1584985275'],
+ 'name': 'Half-Life: Alyx',
+ 'original_price': ['₹ 1,299'],
+ 'platforms': ['windows'],
+ 'release_date': '23 Mar, 2020',
+ 'review': ['Overwhelmingly Positive98% of the 24,320 user reviews for this '
+            'game are positive.']}
+2020-05-05 03:49:36 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?sort_by=&sort_order=0&page=2>
+{'game_url': 'https://store.steampowered.com/app/255710/Cities_Skylines/?snr=1_7_7_230_150_2',
+ 'img_url': ['https://steamcdn-a.akamaihd.net/steam/apps/255710/capsule_sm_120.jpg?t=1585653323'],
+ 'name': 'Cities: Skylines',
+ 'original_price': ['₹ 729'],
+ 'platforms': ['windows', 'Mac OS', 'Linux'],
+ 'release_date': '10 Mar, 2015',
+ 'review': ['Very Positive92% of the 88,076 user reviews for this game are '
+            'positive.']}
+2020-05-05 03:49:36 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?sort_by=&sort_order=0&page=2>
+{'game_url': 'https://store.steampowered.com/app/289070/Sid_Meiers_Civilization_VI/?snr=1_7_7_230_150_2',
+ 'img_url': ['https://steamcdn-a.akamaihd.net/steam/apps/289070/capsule_sm_120.jpg?t=1586193131'],
+ 'name': 'Sid Meier’s Civilization® VI',
+ 'original_price': ['₹ 2,499'],
+ 'platforms': ['windows', 'Mac OS', 'Linux'],
+ 'release_date': '20 Oct, 2016',
+ 'review': ['Mostly Positive79% of the 71,936 user reviews for this game are '
+            'positive.']}
+2020-05-05 03:49:36 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?sort_by=&sort_order=0&page=2>
+{'game_url': 'https://store.steampowered.com/app/815370/Green_Hell/?snr=1_7_7_230_150_2',
+ 'img_url': ['https://steamcdn-a.akamaihd.net/steam/apps/815370/capsule_sm_120.jpg?t=1586347791'],
+ 'name': 'Green Hell',
+ 'original_price': ['₹ 569'],
+ 'platforms': ['windows'],
+ 'release_date': '5 Sep, 2019',
+ 'review': ['Very Positive85% of the 11,784 user reviews for this game are '
+            'positive.']}
+2020-05-05 03:49:36 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?sort_by=&sort_order=0&page=2>
+{'game_url': 'https://store.steampowered.com/app/985890/Streets_of_Rage_4/?snr=1_7_7_230_150_2',
+ 'img_url': ['https://steamcdn-a.akamaihd.net/steam/apps/985890/capsule_sm_120.jpg?t=1588597142'],
+ 'name': 'Streets of Rage 4',
+ 'original_price': ['₹ 569'],
+ 'platforms': ['windows'],
+ 'release_date': '30 Apr, 2020',
+ 'review': ['Very Positive89% of the 3,470 user reviews for this game are '
+            'positive.']}
+2020-05-05 03:49:36 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?sort_by=&sort_order=0&page=2>
+{'game_url': 'https://store.steampowered.com/app/976730/Halo_The_Master_Chief_Collection/?snr=1_7_7_230_150_2',
+ 'img_url': ['https://steamcdn-a.akamaihd.net/steam/apps/976730/capsule_sm_120.jpg?t=1583274094'],
+ 'name': 'Halo: The Master Chief Collection',
+ 'original_price': ['₹ 899'],
+ 'platforms': ['windows'],
+ 'release_date': '3 Dec, 2019',
+ 'review': ['Very Positive91% of the 75,673 user reviews for this game are '
+            'positive.']}
+2020-05-05 03:49:36 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?sort_by=&sort_order=0&page=2>
+{'game_url': 'https://store.steampowered.com/app/281990/Stellaris/?snr=1_7_7_230_150_2',
+ 'img_url': ['https://steamcdn-a.akamaihd.net/steam/apps/281990/capsule_sm_120.jpg?t=1586245761'],
+ 'name': 'Stellaris',
+ 'original_price': ['₹ 849'],
+ 'platforms': ['windows', 'Mac OS', 'Linux'],
+ 'release_date': '9 May, 2016',
+ 'review': ['Very Positive84% of the 54,675 user reviews for this game are '
+            'positive.']}
+2020-05-05 03:49:36 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?sort_by=&sort_order=0&page=2>
+{'game_url': 'https://store.steampowered.com/app/1184050/Gears_Tactics/?snr=1_7_7_230_150_2',
+ 'img_url': ['https://steamcdn-a.akamaihd.net/steam/apps/1184050/capsule_sm_120.jpg?t=1588626336'],
+ 'name': 'Gears Tactics',
+ 'original_price': ['₹ 1,299'],
+ 'platforms': ['windows'],
+ 'release_date': '28 Apr, 2020',
+ 'review': ['Mostly Positive77% of the 1,835 user reviews for this game are '
+            'positive.']}
+2020-05-05 03:49:36 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?sort_by=&sort_order=0&page=2>
+{'game_url': 'https://store.steampowered.com/app/242760/The_Forest/?snr=1_7_7_230_150_2',
+ 'img_url': ['https://steamcdn-a.akamaihd.net/steam/apps/242760/capsule_sm_120.jpg?t=1583780376'],
+ 'name': 'The Forest',
+ 'original_price': ['₹ 529'],
+ 'platforms': ['windows', 'VR Supported'],
+ 'release_date': '30 Apr, 2018',
+ 'review': ['Very Positive93% of the 151,834 user reviews for this game are '
+            'positive.']}
+2020-05-05 03:49:36 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?sort_by=&sort_order=0&page=2>
+{'game_url': 'https://store.steampowered.com/app/440/Team_Fortress_2/?snr=1_7_7_230_150_2',
+ 'img_url': ['https://steamcdn-a.akamaihd.net/steam/apps/440/capsule_sm_120.jpg?t=1577610485'],
+ 'name': 'Team Fortress 2',
+ 'original_price': ['Free to Play'],
+ 'platforms': ['windows', 'Mac OS', 'Linux'],
+ 'release_date': '10 Oct, 2007',
+ 'review': ['Very Positive94% of the 661,416 user reviews for this game are '
+            'positive.']}
+2020-05-05 03:49:36 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?sort_by=&sort_order=0&page=2>
+{'game_url': 'https://store.steampowered.com/app/201270/Total_War_SHOGUN_2/?snr=1_7_7_230_150_2',
+ 'img_url': ['https://steamcdn-a.akamaihd.net/steam/apps/201270/capsule_sm_120.jpg?t=1588190219'],
+ 'name': 'Total War: SHOGUN 2',
+ 'original_price': ['₹ 1,349'],
+ 'platforms': ['windows', 'Mac OS', 'Linux'],
+ 'release_date': '15 Mar, 2011',
+ 'review': ['Very Positive90% of the 19,075 user reviews for this game are '
+            'positive.']}
+2020-05-05 03:49:36 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?sort_by=&sort_order=0&page=2>
+{'game_url': 'https://store.steampowered.com/app/880940/Pummel_Party/?snr=1_7_7_230_150_2',
+ 'img_url': ['https://steamcdn-a.akamaihd.net/steam/apps/880940/capsule_sm_120.jpg?t=1585242250'],
+ 'name': 'Pummel Party',
+ 'original_price': ['₹ 459'],
+ 'platforms': ['windows'],
+ 'release_date': '20 Sep, 2018',
+ 'review': ['Very Positive91% of the 9,450 user reviews for this game are '
+            'positive.']}
+2020-05-05 03:49:36 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?sort_by=&sort_order=0&page=2>
+{'game_url': 'https://store.steampowered.com/app/218620/PAYDAY_2/?snr=1_7_7_230_150_2',
+ 'img_url': ['https://steamcdn-a.akamaihd.net/steam/apps/218620/capsule_sm_120.jpg?t=1584629114'],
+ 'name': 'PAYDAY 2',
+ 'original_price': ['₹ 349'],
+ 'platforms': ['windows', 'Linux', 'VR Supported'],
+ 'release_date': '13 Aug, 2013',
+ 'review': ['Very Positive86% of the 260,327 user reviews for this game are '
+            'positive.']}
+2020-05-05 03:49:36 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?sort_by=&sort_order=0&page=2>
+{'discount_rate': '40%',
+ 'discounted_price': '₹ 1,799',
+ 'game_url': 'https://store.steampowered.com/app/678960/CODE_VEIN/?snr=1_7_7_230_150_2',
+ 'img_url': ['https://steamcdn-a.akamaihd.net/steam/apps/678960/capsule_sm_120.jpg?t=1578932945'],
+ 'name': 'CODE VEIN',
+ 'original_price': ['₹ 2,999'],
+ 'platforms': ['windows'],
+ 'release_date': '26 Sep, 2019',
+ 'review': ['Very Positive89% of the 13,815 user reviews for this game are '
+            'positive.']}
+2020-05-05 03:49:36 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?sort_by=&sort_order=0&page=2>
+{'game_url': 'https://store.steampowered.com/app/294100/RimWorld/?snr=1_7_7_230_150_2',
+ 'img_url': ['https://steamcdn-a.akamaihd.net/steam/apps/294100/capsule_sm_120.jpg?t=1588173922'],
+ 'name': 'RimWorld',
+ 'original_price': ['₹ 759'],
+ 'platforms': ['windows', 'Mac OS', 'Linux'],
+ 'release_date': '17 Oct, 2018',
+ 'review': ['Overwhelmingly Positive98% of the 59,897 user reviews for this '
+            'game are positive.']}
+2020-05-05 03:49:36 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?sort_by=&sort_order=0&page=2>
+{'game_url': 'https://store.steampowered.com/app/393380/Squad/?snr=1_7_7_230_150_2',
+ 'img_url': ['https://steamcdn-a.akamaihd.net/steam/apps/393380/capsule_sm_120.jpg?t=1587660245'],
+ 'name': 'Squad',
+ 'original_price': ['₹ 1,393'],
+ 'platforms': ['windows'],
+ 'release_date': '14 Dec, 2015',
+ 'review': ['Very Positive87% of the 34,814 user reviews for this game are '
+            'positive.']}
+2020-05-05 03:49:36 [scrapy] DEBUG: Crawled (200) <GET https://store.steampowered.com/search/?sort_by=&sort_order=0&page=3> (referer: https://store.steampowered.com/search/?sort_by=&sort_order=0&page=2) ['cached']
+2020-05-05 03:49:36 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?sort_by=&sort_order=0&page=3>
+{'game_url': 'https://store.steampowered.com/app/413150/Stardew_Valley/?snr=1_7_7_230_150_3',
+ 'img_url': ['https://steamcdn-a.akamaihd.net/steam/apps/413150/capsule_sm_120.jpg?t=1583864420'],
+ 'name': 'Stardew Valley',
+ 'original_price': ['₹ 479'],
+ 'platforms': ['windows', 'Mac OS', 'Linux'],
+ 'release_date': '26 Feb, 2016',
+ 'review': ['Overwhelmingly Positive97% of the 199,040 user reviews for this '
+            'game are positive.']}
+2020-05-05 03:49:36 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?sort_by=&sort_order=0&page=3>
+{'game_url': 'https://store.steampowered.com/app/386360/SMITE/?snr=1_7_7_230_150_3',
+ 'img_url': ['https://steamcdn-a.akamaihd.net/steam/apps/386360/capsule_sm_120.jpg?t=1587476638'],
+ 'name': 'SMITE®',
+ 'original_price': ['Free to Play'],
+ 'platforms': ['windows'],
+ 'release_date': '8 Sep, 2015',
+ 'review': ['Very Positive80% of the 63,797 user reviews for this game are '
+            'positive.']}
+2020-05-05 03:49:36 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?sort_by=&sort_order=0&page=3>
+{'game_url': 'https://store.steampowered.com/app/924980/Trials_of_Mana/?snr=1_7_7_230_150_3',
+ 'img_url': ['https://steamcdn-a.akamaihd.net/steam/apps/924980/capsule_sm_120.jpg?t=1588349046'],
+ 'name': 'Trials of Mana',
+ 'original_price': ['₹ 2,499'],
+ 'platforms': ['windows'],
+ 'release_date': '24 Apr, 2020',
+ 'review': ['Very Positive94% of the 1,433 user reviews for this game are '
+            'positive.']}
+2020-05-05 03:49:36 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?sort_by=&sort_order=0&page=3>
+{'game_url': 'https://store.steampowered.com/app/648800/Raft/?snr=1_7_7_230_150_3',
+ 'img_url': ['https://steamcdn-a.akamaihd.net/steam/apps/648800/capsule_sm_120.jpg?t=1575637395'],
+ 'name': 'Raft',
+ 'original_price': ['₹ 565'],
+ 'platforms': ['windows'],
+ 'release_date': '23 May, 2018',
+ 'review': ['Very Positive88% of the 41,618 user reviews for this game are '
+            'positive.']}
+2020-05-05 03:49:36 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?sort_by=&sort_order=0&page=3>
+{'discount_rate': '50%',
+ 'discounted_price': '₹ 999',
+ 'game_url': 'https://store.steampowered.com/app/883710/RESIDENT_EVIL_2__BIOHAZARD_RE2/?snr=1_7_7_230_150_3',
+ 'img_url': ['https://steamcdn-a.akamaihd.net/steam/apps/883710/capsule_sm_120.jpg?t=1581665829'],
+ 'name': 'RESIDENT EVIL 2 / BIOHAZARD RE:2',
+ 'original_price': ['₹ 1,999'],
+ 'platforms': ['windows'],
+ 'release_date': '24 Jan, 2019',
+ 'review': ['Overwhelmingly Positive97% of the 42,725 user reviews for this '
+            'game are positive.']}
+2020-05-05 03:49:36 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?sort_by=&sort_order=0&page=3>
+{'game_url': 'https://store.steampowered.com/app/435150/Divinity_Original_Sin_2__Definitive_Edition/?snr=1_7_7_230_150_3',
+ 'img_url': ['https://steamcdn-a.akamaihd.net/steam/apps/435150/capsule_sm_120.jpg?t=1586290271'],
+ 'name': 'Divinity: Original Sin 2 - Definitive Edition',
+ 'original_price': ['₹ 989'],
+ 'platforms': ['windows', 'Mac OS'],
+ 'release_date': '14 Sep, 2017',
+ 'review': ['Overwhelmingly Positive95% of the 73,798 user reviews for this '
+            'game are positive.']}
+2020-05-05 03:49:36 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?sort_by=&sort_order=0&page=3>
+{'game_url': 'https://store.steampowered.com/app/214950/Total_War_ROME_II__Emperor_Edition/?snr=1_7_7_230_150_3',
+ 'img_url': ['https://steamcdn-a.akamaihd.net/steam/apps/214950/capsule_sm_120.jpg?t=1588000236'],
+ 'name': 'Total War™: ROME II - Emperor Edition',
+ 'original_price': ['₹ 2,699'],
+ 'platforms': ['windows', 'Mac OS'],
+ 'release_date': '3 Sep, 2013',
+ 'review': ['Very Positive81% of the 28,960 user reviews for this game are '
+            'positive.This product has experienced one or more periods of '
+            'off-topic review activity.  Based on your preferences, the '
+            'reviews within these periods have been excluded from this '
+            "product's Review Score."]}
+2020-05-05 03:49:36 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?sort_by=&sort_order=0&page=3>
+{'discount_rate': '70%',
+ 'discounted_price': '₹ 230',
+ 'game_url': 'https://store.steampowered.com/app/287700/METAL_GEAR_SOLID_V_THE_PHANTOM_PAIN/?snr=1_7_7_230_150_3',
+ 'img_url': ['https://steamcdn-a.akamaihd.net/steam/apps/287700/capsule_sm_120.jpg?t=1581382198'],
+ 'name': 'METAL GEAR SOLID V: THE PHANTOM PAIN',
+ 'original_price': ['₹ 769'],
+ 'platforms': ['windows'],
+ 'release_date': '31 Aug, 2015',
+ 'review': ['Very Positive89% of the 32,225 user reviews for this game are '
+            'positive.']}
+2020-05-05 03:49:36 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?sort_by=&sort_order=0&page=3>
+{'game_url': 'https://store.steampowered.com/app/895400/Deadside/?snr=1_7_7_230_150_3',
+ 'img_url': ['https://steamcdn-a.akamaihd.net/steam/apps/895400/capsule_sm_120.jpg?t=1587144225'],
+ 'name': 'Deadside',
+ 'original_price': ['₹ 529'],
+ 'platforms': ['windows'],
+ 'release_date': '14 Apr, 2020',
+ 'review': ['Mostly Positive79% of the 6,246 user reviews for this game are '
+            'positive.']}
+2020-05-05 03:49:36 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?sort_by=&sort_order=0&page=3>
+{'discount_rate': '67%',
+ 'discounted_price': '₹ 824',
+ 'game_url': 'https://store.steampowered.com/app/502500/ACE_COMBAT_7_SKIES_UNKNOWN/?snr=1_7_7_230_150_3',
+ 'img_url': ['https://steamcdn-a.akamaihd.net/steam/apps/502500/capsule_sm_120.jpg?t=1580308863'],
+ 'name': 'ACE COMBAT™ 7: SKIES UNKNOWN',
+ 'original_price': ['₹ 2,499'],
+ 'platforms': ['windows'],
+ 'release_date': '31 Jan, 2019',
+ 'review': ['Very Positive82% of the 8,845 user reviews for this game are '
+            'positive.']}
+2020-05-05 03:49:36 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?sort_by=&sort_order=0&page=3>
+{'game_url': 'https://store.steampowered.com/app/779340/Total_War_THREE_KINGDOMS/?snr=1_7_7_230_150_3',
+ 'img_url': ['https://steamcdn-a.akamaihd.net/steam/apps/779340/capsule_sm_120.jpg?t=1587997264'],
+ 'name': 'Total War: THREE KINGDOMS',
+ 'original_price': ['₹ 2,699'],
+ 'platforms': ['windows', 'Mac OS', 'Linux'],
+ 'release_date': '23 May, 2019',
+ 'review': ['Very Positive84% of the 36,202 user reviews for this game are '
+            'positive.']}
+2020-05-05 03:49:36 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?sort_by=&sort_order=0&page=3>
+{'game_url': 'https://store.steampowered.com/app/552990/World_of_Warships/?snr=1_7_7_230_150_3',
+ 'img_url': ['https://steamcdn-a.akamaihd.net/steam/apps/552990/capsule_sm_120.jpg?t=1586551065'],
+ 'name': 'World of Warships',
+ 'original_price': ['Free to Play'],
+ 'platforms': ['windows', 'Mac OS'],
+ 'release_date': '15 Nov, 2017',
+ 'review': ['Mostly Positive77% of the 45,086 user reviews for this game are '
+            'positive.']}
+2020-05-05 03:49:36 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?sort_by=&sort_order=0&page=3>
+{'discount_rate': '70%',
+ 'discounted_price': '₹ 390',
+ 'game_url': 'https://store.steampowered.com/app/928600/F1_2019/?snr=1_7_7_230_150_3',
+ 'img_url': ['https://steamcdn-a.akamaihd.net/steam/apps/928600/capsule_sm_120.jpg?t=1588087778'],
+ 'name': 'F1® 2019',
+ 'original_price': ['₹ 1,299'],
+ 'platforms': ['windows'],
+ 'release_date': '27 Jun, 2019',
+ 'review': ['Very Positive89% of the 8,061 user reviews for this game are '
+            'positive.']}
+2020-05-05 03:49:36 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?sort_by=&sort_order=0&page=3>
+{'game_url': 'https://store.steampowered.com/app/292030/The_Witcher_3_Wild_Hunt/?snr=1_7_7_230_150_3',
+ 'img_url': ['https://steamcdn-a.akamaihd.net/steam/apps/292030/capsule_sm_120.jpg?t=1581375222'],
+ 'name': 'The Witcher® 3: Wild Hunt',
+ 'original_price': ['₹ 800'],
+ 'platforms': ['windows'],
+ 'release_date': '18 May, 2015',
+ 'review': ['Overwhelmingly Positive98% of the 333,322 user reviews for this '
+            'game are positive.']}
+2020-05-05 03:49:36 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?sort_by=&sort_order=0&page=3>
+{'game_url': 'https://store.steampowered.com/app/704270/Generation_Zero/?snr=1_7_7_230_150_3',
+ 'img_url': ['https://steamcdn-a.akamaihd.net/steam/apps/704270/capsule_sm_120.jpg?t=1588145260'],
+ 'name': 'Generation Zero',
+ 'original_price': ['₹ 785'],
+ 'platforms': ['windows'],
+ 'release_date': '26 Mar, 2019',
+ 'review': ['Mixed65% of the 6,731 user reviews for this game are positive.']}
+2020-05-05 03:49:36 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?sort_by=&sort_order=0&page=3>
+{'discount_rate': '50%',
+ 'discounted_price': '₹ 1,049',
+ 'game_url': 'https://store.steampowered.com/app/637650/FINAL_FANTASY_XV_WINDOWS_EDITION/?snr=1_7_7_230_150_3',
+ 'img_url': ['https://steamcdn-a.akamaihd.net/steam/apps/637650/capsule_sm_120.jpg?t=1553563213'],
+ 'name': 'FINAL FANTASY XV WINDOWS EDITION',
+ 'original_price': ['₹ 2,099'],
+ 'platforms': ['windows'],
+ 'release_date': '6 Mar, 2018',
+ 'review': ['Mostly Positive79% of the 19,284 user reviews for this game are '
+            'positive.']}
+2020-05-05 03:49:36 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?sort_by=&sort_order=0&page=3>
+{'game_url': 'https://store.steampowered.com/app/1273370/Survivor_Pass_Cold_Front/?snr=1_7_7_230_150_3',
+ 'img_url': ['https://steamcdn-a.akamaihd.net/steam/apps/1273370/capsule_sm_120.jpg?t=1587521159'],
+ 'name': 'Survivor Pass: Cold Front',
+ 'original_price': ['₹ 649'],
+ 'platforms': ['windows'],
+ 'release_date': '21 Apr, 2020',
+ 'review': ['Mostly Positive78% of the 344 user reviews for this game are '
+            'positive.']}
+2020-05-05 03:49:36 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?sort_by=&sort_order=0&page=3>
+{'game_url': 'https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition/?snr=1_7_7_230_150_3',
+ 'img_url': ['https://steamcdn-a.akamaihd.net/steam/apps/489830/capsule_sm_120.jpg?t=1586802953'],
+ 'name': 'The Elder Scrolls V: Skyrim Special Edition',
+ 'original_price': ['₹ 2,670'],
+ 'platforms': ['windows'],
+ 'release_date': '27 Oct, 2016',
+ 'review': ['Very Positive91% of the 35,736 user reviews for this game are '
+            'positive.']}
+2020-05-05 03:49:36 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?sort_by=&sort_order=0&page=3>
+{'game_url': 'https://store.steampowered.com/app/105600/Terraria/?snr=1_7_7_230_150_3',
+ 'img_url': ['https://steamcdn-a.akamaihd.net/steam/apps/105600/capsule_sm_120.jpg?t=1580862559'],
+ 'name': 'Terraria',
+ 'original_price': ['₹ 369'],
+ 'platforms': ['windows', 'Mac OS', 'Linux'],
+ 'release_date': '16 May, 2011',
+ 'review': ['Overwhelmingly Positive97% of the 364,838 user reviews for this '
+            'game are positive.']}
+2020-05-05 03:49:36 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?sort_by=&sort_order=0&page=3>
+{'game_url': 'https://store.steampowered.com/app/431960/Wallpaper_Engine/?snr=1_7_7_230_150_3',
+ 'img_url': ['https://steamcdn-a.akamaihd.net/steam/apps/431960/capsule_sm_120.jpg?t=1581697699'],
+ 'name': 'Wallpaper Engine',
+ 'original_price': ['₹ 229'],
+ 'platforms': ['windows'],
+ 'release_date': '16 Nov, 2018',
+ 'review': ['Overwhelmingly Positive98% of the 155,255 user reviews for this '
+            'software are positive.']}
+2020-05-05 03:49:36 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?sort_by=&sort_order=0&page=3>
+{'discount_rate': '50%',
+ 'discounted_price': '₹ 1,449',
+ 'game_url': 'https://store.steampowered.com/app/595520/FINAL_FANTASY_XII_THE_ZODIAC_AGE/?snr=1_7_7_230_150_3',
+ 'img_url': ['https://steamcdn-a.akamaihd.net/steam/apps/595520/capsule_sm_120.jpg?t=1588346893'],
+ 'name': 'FINAL FANTASY XII THE ZODIAC AGE',
+ 'original_price': ['₹ 2,899'],
+ 'platforms': ['windows'],
+ 'release_date': '1 Feb, 2018',
+ 'review': ['Very Positive87% of the 2,664 user reviews for this game are '
+            'positive.']}
+2020-05-05 03:49:36 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?sort_by=&sort_order=0&page=3>
+{'game_url': 'https://store.steampowered.com/app/311210/Call_of_Duty_Black_Ops_III/?snr=1_7_7_230_150_3',
+ 'img_url': ['https://steamcdn-a.akamaihd.net/steam/apps/311210/capsule_sm_120.jpg?t=1571767407'],
+ 'name': 'Call of Duty®: Black Ops III',
+ 'original_price': ['₹ 3,999'],
+ 'platforms': ['windows', 'Mac OS'],
+ 'release_date': '5 Nov, 2015',
+ 'review': ['Mostly Positive72% of the 31,511 user reviews for this game are '
+            'positive.']}
+2020-05-05 03:49:36 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?sort_by=&sort_order=0&page=3>
+{'game_url': 'https://store.steampowered.com/app/1089350/NBA_2K20/?snr=1_7_7_230_150_3',
+ 'img_url': ['https://steamcdn-a.akamaihd.net/steam/apps/1089350/capsule_sm_120.jpg?t=1573674198'],
+ 'name': 'NBA 2K20',
+ 'original_price': ['₹ 2,999'],
+ 'platforms': ['windows'],
+ 'release_date': '6 Sep, 2019',
+ 'review': ['Mixed45% of the 20,911 user reviews for this game are positive.']}
+2020-05-05 03:49:36 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?sort_by=&sort_order=0&page=3>
+{'game_url': 'https://store.steampowered.com/app/251570/7_Days_to_Die/?snr=1_7_7_230_150_3',
+ 'img_url': ['https://steamcdn-a.akamaihd.net/steam/apps/251570/capsule_sm_120.jpg?t=1579879756'],
+ 'name': '7 Days to Die',
+ 'original_price': ['₹ 619'],
+ 'platforms': ['windows', 'Mac OS', 'Linux'],
+ 'release_date': '13 Dec, 2013',
+ 'review': ['Very Positive83% of the 83,151 user reviews for this game are '
+            'positive.']}
+2020-05-05 03:49:36 [scrapy] DEBUG: Scraped from <200 https://store.steampowered.com/search/?sort_by=&sort_order=0&page=3>
+{'game_url': 'https://store.steampowered.com/app/601150/Devil_May_Cry_5/?snr=1_7_7_230_150_3',
+ 'img_url': ['https://steamcdn-a.akamaihd.net/steam/apps/601150/capsule_sm_120.jpg?t=1582605276'],
+ 'name': 'Devil May Cry 5',
+ 'original_price': [''],
+ 'platforms': ['windows'],
+ 'release_date': '7 Mar, 2019',
+ 'review': ['Very Positive94% of the 23,024 user reviews for this game are '
+            'positive.']}
+2020-05-05 03:49:36 [scrapy] INFO: Closing spider (closespider_itemcount)
+2020-05-05 03:49:36 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 1392,
+ 'downloader/request_count': 4,
+ 'downloader/request_method_count/GET': 4,
+ 'downloader/response_bytes': 108074,
+ 'downloader/response_count': 4,
+ 'downloader/response_status_count/200': 4,
+ 'finish_reason': 'closespider_itemcount',
+ 'finish_time': datetime.datetime(2020, 5, 4, 22, 19, 36, 653011),
+ 'httpcache/hit': 4,
+ 'item_scraped_count': 100,
+ 'log_count/DEBUG': 105,
+ 'log_count/INFO': 6,
+ 'request_depth_max': 3,
+ 'response_received_count': 4,
+ 'robotstxt/request_count': 1,
+ 'robotstxt/response_count': 1,
+ 'robotstxt/response_status_count/200': 1,
+ 'scheduler/dequeued': 3,
+ 'scheduler/dequeued/memory': 3,
+ 'scheduler/enqueued': 4,
+ 'scheduler/enqueued/memory': 4,
+ 'start_time': datetime.datetime(2020, 5, 4, 22, 19, 35, 621952)}
+2020-05-05 03:49:36 [scrapy] INFO: Spider closed (closespider_itemcount)

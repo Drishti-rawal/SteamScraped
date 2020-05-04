@@ -1,0 +1,6 @@
+Referer: https://store.steampowered.com/search/?sort_by=&sort_order=0&page=2
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en
+User-Agent: Scrapy/1.6.0 (+https://scrapy.org)
+Accept-Encoding: gzip,deflate
+Cookie: browserid=1656705800863838808; steamCountry=IN%7C7f75bdc997b108d341499be2529682a9; sessionid=f6552c1d27d11bb2d68dc750
